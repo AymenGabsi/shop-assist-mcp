@@ -5,3 +5,4 @@ python-dotenv
 sqlalchemy
 psycopg2-binary
 langdetect
+gunicorn==23.0.0
